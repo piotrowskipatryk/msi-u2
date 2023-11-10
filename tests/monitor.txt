@@ -1,0 +1,7 @@
+liczba próbek uczących: 3000
+skuteczność klasyfikacji: 97.73%
+macierz pomyłek między-klasowych:
+(stały | ciekły | gazowy)
+[[1000    0    0]
+ [   4  932   64]
+ [   0    0 1000]]
